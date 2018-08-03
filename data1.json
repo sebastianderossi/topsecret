@@ -6,8 +6,7 @@
             "details": {
             "Date": "1 - 1 - 2018",
             "Notes": "This is a note"
-            }
-            },
+            }},
             {
             "title": "List 01 - item2",
             "details": {
@@ -24,19 +23,20 @@
             "details": {
             "Date": "1 - 1 - 2018",
             "Notes": "This is a note"
-            },
+            }
+          },
             {
             "title": "List 02 - item2",
             "details": {
             "Date": "1 - 1 - 2018",
             "Notes": "This is a note"
-            },
+            }},
             {
             "title": "List 02 - item3",
             "details": {
             "Date": "1 - 1 - 2018",
             "Notes": "This is a note"
-            },
+            }},
             {
             "title": "List 02 - item4",
             "details": {
@@ -62,36 +62,31 @@
             "details": {
             "Date": "1 - 1 - 2018",
             "Notes": "This is a note"
-            },
+            }},
             {
             "title": "List 04 - item2",
             "details": {
             "Date": "1 - 1 - 2018",
             "Notes": "This is a note"
-            },
+            }},
             {
             "title": "List 04 - item3",
             "details": {
             "Date": "1 - 1 - 2018",
             "Notes": "This is a note"
-            },
+            }},
             {
             "title": "List 04 - item4",
             "details": {
             "Date": "1 - 1 - 2018",
             "Notes": "This is a note"
-            },
+            }},
             {
             "title": "List 04 - item5",
             "details": {
             "Date": "1 - 1 - 2018",
             "Notes": "This is a note"
-            },
-            "title": "List 04 - item6",
-            "details": {
-            "Date": "1 - 1 - 2018",
-            "Notes": "This is a note"
-            }
-            }]
+            }}
+            ]
   }
   ]
