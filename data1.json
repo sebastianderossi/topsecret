@@ -5,7 +5,7 @@
             "title": "List 01 - item1",
             "details": {
             "Date": "1 - 1 - 2018",
-            "Notes": "This is a note"
+            "Notes": ""
             }},
             {
             "title": "List 01 - item2",
@@ -22,7 +22,7 @@
             "title": "List 02 - item1",
             "details": {
             "Date": "1 - 1 - 2018",
-            "Notes": "This is a note"
+            "Notes": ""
             }
           },
             {
@@ -61,7 +61,7 @@
             "title": "List 04 - item1",
             "details": {
             "Date": "1 - 1 - 2018",
-            "Notes": "This is a note"
+            "Notes": ""
             }},
             {
             "title": "List 04 - item2",
@@ -79,7 +79,7 @@
             "title": "List 04 - item4",
             "details": {
             "Date": "1 - 1 - 2018",
-            "Notes": "This is a note"
+            "Notes": ""
             }},
             {
             "title": "List 04 - item5",
