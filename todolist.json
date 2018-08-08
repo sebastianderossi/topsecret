@@ -1,0 +1,128 @@
+
+[
+  {
+    "title": "Grocery Shopping",
+    "hasComplete": false,
+    "tasks": [
+      {
+        "title": "Buy Milk",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": "Don't forget to get 2% and Skim"
+        },
+        "hasComplete": true
+      },
+      {
+        "title": "Get Noodles",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": ""
+        },
+        "hasComplete": false
+      },
+       {
+        "title": "Corn Flakes?",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": "ONLY if its on sale!!!"
+        },
+        "hasComplete": false
+      },
+      {
+        "title": "Tomato Paste",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": "Buy 2 cans!"
+        },
+        "hasComplete": false
+      }
+    ]
+  },
+  {
+    "title": "Books to read",
+    "hasComplete": true,
+    "tasks": [
+      {
+        "title": "Divied Empires",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": ""
+        },
+        "hasComplete": false
+      },
+      {
+        "title": "Read The Remaking of the British Atlantic",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": ""
+        },
+        "hasComplete": true
+      },
+      {
+        "title": "Read Ready Player One",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": "This might be fun :)"
+        },
+        "hasComplete": true
+      }
+    ]
+  },
+  {
+    "title": "Article Ideas",
+    "hasComplete": true,
+    "tasks": []
+  },
+  {
+    "title": "Daily Goals",
+    "hasComplete": true,
+    "tasks": [
+      {
+        "title": "Finish NodeJS Demos",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": ""
+        },
+        "hasComplete": false
+      },
+      {
+        "title": "Plan Future demos",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": "This is a note 1"
+        },
+        "hasComplete": false
+      }
+    ]
+  },
+  {
+    "title": "Research Trip",
+    "hasComplete": true,
+    "tasks": [
+      {
+        "title": "Book Tickets",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": ""
+        },
+        "hasComplete": true
+      },
+      {
+        "title": "Research possible locations",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": "France? London? Rome?"
+        },
+        "hasComplete": true
+      },
+      {
+        "title": "Book Hotel rooms",
+        "details": {
+          "date": "1 - 1 - 2018",
+          "notes": ""
+        },
+        "hasComplete": true
+      }
+    ]
+  }
+]
