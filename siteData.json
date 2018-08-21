@@ -1,8 +1,8 @@
 {
 	"headerInfo": [
-		{"label": "Add Record", id:"add"},
-		{"label": "Remove Record", id:"remove" },
-		{"label": "Display Record", id:"display"}
+		{"label": "Add Record", "id":"add"},
+		{"label": "Remove Record", "id":"remove" },
+		{"label": "Display Record", "id":"display"}
 	],
 	"footerInfo": [],
 	"users": [{
