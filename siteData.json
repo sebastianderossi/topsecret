@@ -1,13 +1,8 @@
 {
-	"headerInfo": [{
-			"section1": "Add"
-		},
-		{
-			"section2": "Remove"
-		},
-		{
-			"section3": "Delete"
-		}
+	"headerInfo": [
+		{"label": "Add Record", id:"add"},
+		{"label": "Remove Record", id:"remove" },
+		{"label": "Display Record", id:"display"}
 	],
 	"footerInfo": [],
 	"users": [{
