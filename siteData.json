@@ -1,9 +1,40 @@
 {
-	"headerInfo": [
-		{"label": "Add Record", "id":"add"},
-		{"label": "Remove Record", "id":"remove" },
-		{"label": "Display Record", "id":"display"}
+	"headerInfo": [{
+			"label": "Add Record",
+			"id": "add"
+		},
+		{
+			"label": "Remove Record",
+			"id": "remove"
+		},
+		{
+			"label": "Display Record",
+			"id": "display"
+		}
 	],
+	"siteContent": {
+		"jumbotron": {
+			"title": "Hello, world!",
+			"content": "This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.",
+			"button": "Learn more »"
+		},
+		"sections": [{
+				"title": "Heading 1",
+				"content": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+				"button": "View details »"
+			},
+			{
+				"title": "Heading 2",
+				"content": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+				"button": "View details »"
+			},
+			{
+				"title": "Heading 3",
+				"content": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.",
+				"button": "View details »"
+			}
+		]
+	},
 	"footerInfo": [],
 	"users": [{
 			"id": 100000000,
